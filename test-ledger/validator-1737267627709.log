@@ -1,0 +1,9 @@
+[0m[38;5;8m[[0m2025-01-19T06:20:27.721038391Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m agave-validator 2.0.23 (src:7f759d1b; feat:607245837, client:Agave)
+[0m[38;5;8m[[0m2025-01-19T06:20:27.721345824Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+        ],
+    }
+[0m[38;5;8m[[0m2025-01-19T06:20:27.721492972Z [0m[33mWARN [0m solana_perf[0m[38;5;8m][0m CUDA is disabled
+[0m[38;5;8m[[0m2025-01-19T06:20:27.721548939Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX detected
+[0m[38;5;8m[[0m2025-01-19T06:20:27.721565120Z [0m[1m[31mERROR[0m solana_perf[0m[38;5;8m][0m Incompatible CPU detected: missing AVX2 support. Please build from source on the target
